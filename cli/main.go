@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Wodlfvllf/PodWIzard"
+	"github.com/Wodlfvllf/Podwizzard_GO"
 	"encoding/json"
 	"github.com/olekukonko/tablewriter"
 	"os"
@@ -23,7 +23,7 @@ type ScheduleInfo struct {
 }
 
 func main() {
-	conn := PodWIzard.Connect()
+	conn := Podwizzard_GO.Connect()
 	if conn == nil {
 		return
 	}
