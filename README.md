@@ -2,7 +2,7 @@
 
 ## Why ?
 
-Sometimes we need a quick shell to do some things and later dont need it or in many CTFs and tutorials we need to provide unique shell to user, PodWIzard makes these very easy!
+Sometimes we need a quick shell to do some things and later don't need it or in many CTFs and tutorials we need to provide unique shell to user, PodWIzard makes these very easy!
 
 One can use go [package](https://github.com/Wodlfvllf/Podwizzard_GO) to deploy shells Programmatically.
 
