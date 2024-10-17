@@ -27,7 +27,7 @@ PodWIzard uses kubernetes to start a pod using image provided in options.
 **Output:**
 ```
 Username: level1
-Password: xBQ5wboh8pt7RAB
+Password: xBQ5wbohh9pt7RAB
 Port: 45165
 ```
 
